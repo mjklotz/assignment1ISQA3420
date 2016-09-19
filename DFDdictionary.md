@@ -1,6 +1,7 @@
 dictionary of DFD terms
 
 Backend Client: Developer tool used to authenticate user access and provide access to the license scanner and the License data store. Has                 read write access to License data store.
+
 Frontend Client: "Storefront" for user authentication and access to information stored in the License data store. Has read only access to                   License data store.
 license scanner: Opens the software package and searches for license information, returns the software package and the licenses found                     list. If none are found then returns software package and none found message.
 
