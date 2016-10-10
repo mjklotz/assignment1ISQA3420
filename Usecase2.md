@@ -1,4 +1,4 @@
-## Title: Upload the software package to determine license and vulnerability information.
+##Use case 2
 
 Primary actor: Developer
 
