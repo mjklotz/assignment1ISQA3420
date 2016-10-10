@@ -1,6 +1,6 @@
-dictionary of DFD terms
+##DFD terms
 
-Processes
+##Processes
 
 Backend License: Developer tool used to authenticate user access and provide access to the license scanner and the License data store. Has read write access to License data store. Links to the NIST Vunerability database to send and receive the software package and Vunerability data. Also links to the Software package license scanner to send the software package and receive license information. Aggregates Vunerability and license data and writes the software package, Vunerability and license information to the License data store. Also allows the developer to look at all or select software packages, vunerabilities and license data.
 
@@ -12,7 +12,7 @@ Frontend policy: Manager authentication and access to information stored in the 
 
 Backend policy: Developer authentication and access to information stored in the Policy Documents Data Store. Has read only access. Allows the Develore to read policy documents in the Policy Documents data store.
 
-Databases
+##Databases
 
 License Data Store: Stores Software package, Vunerability, and license data. 
 
@@ -20,7 +20,7 @@ NIST Vunerability DB: External database used by Backend License process to deter
 
 Policy Documents data store: Stores data from policy documents.
 
-Data flows
+##Data flows
 
 Software package: Tool the company is interested in using or currently using.
 
@@ -53,7 +53,7 @@ Modify policy documents: Sends modified policy documents to the Frontent policy 
 Commit confirm: Confirms data has been written to the data store. Used by Policy Documents data store and License data store.
 
 
-External entities
+##External entities
 
 Developer: Accesses the Backend license process to check software packages for vulnerabilities and licenses and save the data to the License data store. Can also access all or select software package information. Has read write permission.
 Also accesses the Backend policy process to read policy documents. Has read only permission.
