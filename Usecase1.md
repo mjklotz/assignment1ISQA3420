@@ -6,7 +6,7 @@ Goal in context: Manager is able to determine license and vulnerability informat
 
 Stakeholders: Manager, Developer
 
-Preconditions: Software package, license and vulnerability information contained in the database
+Preconditions: Software package, license and vulnerability information contained in the database.
               
 Main success Scenario: Manager receives accurate information on the requested project(s)
 
