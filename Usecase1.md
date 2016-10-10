@@ -10,7 +10,7 @@ Preconditions: Software package, license and vulnerability information contained
               
 Main success Scenario: Manager receives accurate information on the requested project(s)
 
-Failed end conditions: Manager receives no information
+Failed end conditions: Manager receives no information, 
                        Manager receives incorrect information 
 
 Trigger: Manager requests Software package, license and vulnerability information from the front end client.
