@@ -11,7 +11,7 @@ Preconditions: Software package
 Main success Scenario: System finds vunerability and license information and stores it in the data store.
                        Developer is able to view all or select software package, vunerability and license information.
 
-Failed end conditions: Manager receives no information
+Failed end conditions: Manager receives no information, 
                        Manager receives incorrect information 
 
 Trigger: Developer loads Software package onto the Backend license process.
