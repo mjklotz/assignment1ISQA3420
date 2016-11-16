@@ -1,4 +1,5 @@
 Internal OSS Use
+	
 	Green Licenses
 		MIT
 		BSD
@@ -9,6 +10,7 @@ Internal OSS Use
 		Affero GPL
 
 Used in Commercial Products
+	
 	Green Licenses
 		MIT
 		BSD
