@@ -2,13 +2,13 @@ Internal OSS Use
 
 	Green Licenses
 		
-		MIT 
-    		BSD
-    LGPL
-    Apache 2.0
-    GPLv3
-  Red Licenses
-    Affero GPL
+		MIT 	
+		BSD
+    		LGPL
+    		Apache 2.0
+		PLv3
+  	Red Licenses
+    		Affero GPL
 
 Used in Commercial Products
   Green Licenses
