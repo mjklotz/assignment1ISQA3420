@@ -1,7 +1,10 @@
 Internal OSS Use
-  Green Licenses
-    MIT 
-    BSD
+
+	Green Licenses
+		
+		MIT 
+    		
+		BSD
     LGPL
     Apache 2.0
     GPLv3
